@@ -1,0 +1,40 @@
+2023-02-27 11:01:42,451 - NOP Comm Login Module -INFO - launch chrome browser
+2023-02-27 11:01:44,401 - NOP Comm Login Module -INFO - application launch successfully.
+2023-02-27 11:01:49,622 - NOP Comm Login Module -INFO - clear the email value
+2023-02-27 11:01:49,804 - NOP Comm Login Module -INFO - enter email value - 
+2023-02-27 11:01:49,908 - NOP Comm Login Module -INFO - clear the password value
+2023-02-27 11:01:54,120 - NOP Comm Login Module -INFO - enter password value - 
+2023-02-27 11:01:54,121 - NOP Comm Login Module -INFO - click on checkbox Button 
+2023-02-27 11:01:54,228 - NOP Comm Login Module -INFO - click on Login Button 
+2023-02-27 11:02:02,176 - NOP Comm Login Module -INFO - after login applicaiton title :  Dashboard / nopCommerce administration
+2023-02-27 11:02:02,185 - NOP Comm Login Module -INFO - after login applicaiton url :  https://admin-demo.nopcommerce.com/admin/
+2023-02-27 11:02:03,632 - NOP Comm Login Module -INFO - click on Logout Button 
+2023-02-27 11:02:08,643 - NOP Comm Login Module -INFO - application close successfully.
+2023-02-27 11:04:39,268 - NOP Comm Login Module -INFO - launch chrome browser
+2023-02-27 11:04:41,269 - NOP Comm Login Module -INFO - application launch successfully.
+2023-02-27 11:04:46,579 - NOP Comm Login Module -INFO - clear the email value
+2023-02-27 11:04:46,727 - NOP Comm Login Module -INFO - enter email value - 
+2023-02-27 11:04:46,866 - NOP Comm Login Module -INFO - clear the password value
+2023-02-27 11:04:51,054 - NOP Comm Login Module -INFO - enter password value - 
+2023-02-27 11:04:51,054 - NOP Comm Login Module -INFO - click on checkbox Button 
+2023-02-27 11:04:51,120 - NOP Comm Login Module -INFO - click on Login Button 
+2023-02-27 11:04:59,846 - NOP Comm Login Module -INFO - after login applicaiton title :  Dashboard / nopCommerce administration
+2023-02-27 11:04:59,852 - NOP Comm Login Module -INFO - after login applicaiton url :  https://admin-demo.nopcommerce.com/admin/
+2023-02-27 11:04:59,858 - NOP Comm Login Module -WARN - after login applicaiton title :  Dashboard / nopCommerce administration
+2023-02-27 11:04:59,865 - NOP Comm Login Module -ERROR - after login applicaiton url :  https://admin-demo.nopcommerce.com/admin/
+2023-02-27 11:05:01,709 - NOP Comm Login Module -INFO - click on Logout Button 
+2023-02-27 11:05:06,742 - NOP Comm Login Module -INFO - application close successfully.
+2023-03-09 20:34:56,939 - NOP Comm Login Module -INFO - launch chrome browser
+2023-03-09 20:34:58,079 - NOP Comm Login Module -INFO - application launch successfully.
+2023-03-09 20:35:03,272 - NOP Comm Login Module -INFO - clear the email value
+2023-03-09 20:35:03,455 - NOP Comm Login Module -INFO - enter email value - 
+2023-03-09 20:35:03,563 - NOP Comm Login Module -INFO - clear the password value
+2023-03-09 20:35:07,734 - NOP Comm Login Module -INFO - enter password value - 
+2023-03-09 20:35:07,734 - NOP Comm Login Module -INFO - click on checkbox Button 
+2023-03-09 20:35:07,823 - NOP Comm Login Module -INFO - click on Login Button 
+2023-03-09 20:35:14,918 - NOP Comm Login Module -INFO - after login applicaiton title :  Dashboard / nopCommerce administration
+2023-03-09 20:35:14,924 - NOP Comm Login Module -INFO - after login applicaiton url :  https://admin-demo.nopcommerce.com/admin/
+2023-03-09 20:35:14,929 - NOP Comm Login Module -WARN - after login applicaiton title :  Dashboard / nopCommerce administration
+2023-03-09 20:35:14,934 - NOP Comm Login Module -ERROR - after login applicaiton url :  https://admin-demo.nopcommerce.com/admin/
+2023-03-09 20:35:15,979 - NOP Comm Login Module -INFO - click on Logout Button 
+2023-03-09 20:35:20,997 - NOP Comm Login Module -INFO - application close successfully.

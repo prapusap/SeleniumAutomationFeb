@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="63848" started-at="2023-03-02T14:54:53Z" finished-at="2023-03-02T14:55:57Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="63848" started-at="2023-03-02T14:54:53Z" finished-at="2023-03-02T14:55:57Z">
+      <class name="dataDrivenTest.NOPCommLogin">
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:dataDrivenTest.NOPCommLogin@568bf312]" name="launchApp" is-config="true" duration-ms="4388" started-at="2023-03-02T06:54:53Z" finished-at="2023-03-02T06:54:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="verifyLoginFeatureWithInValidCred(java.lang.String, java.lang.String)[pri:0, instance:dataDrivenTest.NOPCommLogin@568bf312]" name="verifyLoginFeatureWithInValidCred" duration-ms="13581" started-at="2023-03-02T06:54:58Z" data-provider="regressionData" finished-at="2023-03-02T06:55:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abhayregression@google.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[welcome@1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginFeatureWithInValidCred -->
+        <test-method status="PASS" signature="verifyLoginFeatureWithInValidCred(java.lang.String, java.lang.String)[pri:0, instance:dataDrivenTest.NOPCommLogin@568bf312]" name="verifyLoginFeatureWithInValidCred" duration-ms="12888" started-at="2023-03-02T06:55:11Z" data-provider="regressionData" finished-at="2023-03-02T06:55:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Aditiregression@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demo@1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginFeatureWithInValidCred -->
+        <test-method status="PASS" signature="verifyLoginFeatureWithInValidCred(java.lang.String, java.lang.String)[pri:0, instance:dataDrivenTest.NOPCommLogin@568bf312]" name="verifyLoginFeatureWithInValidCred" duration-ms="12891" started-at="2023-03-02T06:55:24Z" data-provider="regressionData" finished-at="2023-03-02T06:55:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Merinregression@outlook.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[automation@1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginFeatureWithInValidCred -->
+        <test-method status="PASS" signature="verifyLoginFeatureWithInValidCred(java.lang.String, java.lang.String)[pri:0, instance:dataDrivenTest.NOPCommLogin@568bf312]" name="verifyLoginFeatureWithInValidCred" duration-ms="12875" started-at="2023-03-02T06:55:37Z" data-provider="regressionData" finished-at="2023-03-02T06:55:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ankita@outlook.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[automation@1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginFeatureWithInValidCred -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:dataDrivenTest.NOPCommLogin@568bf312]" name="closeApp" is-config="true" duration-ms="7209" started-at="2023-03-02T06:55:50Z" finished-at="2023-03-02T06:55:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- dataDrivenTest.NOPCommLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
